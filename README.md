@@ -26,7 +26,7 @@ using Machine Learning on IBM HR Analytics dataset.
 ## Files
 | File | Description |
 |---|---|
-| `EMPLOYEE_PERFORMANCE_PREDICTION_DIPESH_NEUPANE_CLEAN.ipynb` | Main notebook |
+| `EMPLOYEE_PERFORMANCE_PREDICTION_DIPESH_NEUPANE (2).ipynb` | Main notebook |
 | `WA_Fn-UseC_-HR-Employee-Attrition.csv` | IBM HR Dataset |
 
 ## Tools Used
